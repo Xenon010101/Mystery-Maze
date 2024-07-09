@@ -1,0 +1,3 @@
+### README
+
+I created Mystery Maze as a simple text-based game where you navigate through a maze, avoid enemies, and collect items to achieve a high score. The game is developed in Java and is played via the command line. To start the game, run the `Game.java` file, and you'll see a prompt asking for your move. You can type `UP`, `DOWN`, `LEFT`, or `RIGHT` to move in the maze or `QUIT` to exit the game. The goal is to navigate through the maze while avoiding enemies and trying to reach the end to achieve a high score. The game ends after 60 seconds or when you decide to quit, and your score will be displayed at the end.
